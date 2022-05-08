@@ -102,7 +102,10 @@ const Bottom = styled.div`
 `
 const Info = styled.div`
     margin-left: 10rem;
-
+    @media (max-width: 1068px) {
+        margin-top: 1rem;
+        margin-left: 1rem;
+    }
 `
 
 export default Recipe;

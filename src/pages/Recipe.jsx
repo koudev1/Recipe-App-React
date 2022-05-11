@@ -71,8 +71,8 @@ const DetailWrapper = styled.div`
     }
 
     li {
-    font-size: 1.2rem;
-    line-height: 2.5rem;
+    font-size: 1rem;
+    line-height: 2rem;
     }
 
     ul {
